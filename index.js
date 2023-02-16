@@ -54,3 +54,10 @@ for( let i = 0; i < example4.length; i ++){
 
 let example6 = ["a","b","c","f","d",];
 console.log(example6.reverse());
+
+example6.sort();
+console.log(example6);
+
+let example7 = [1,2,5,7,8,4];
+example7.sort();
+console.log(example7);
