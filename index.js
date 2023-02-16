@@ -14,3 +14,5 @@ console.log(example2[1][1]);
 let test = example2[2];
 console.log(test[1]);
 
+for( let i = 1; i <= example1.length; i ++)
+console.log (i);
