@@ -59,5 +59,9 @@ example6.sort();
 console.log(example6);
 
 let example7 = [1,2,5,7,8,4];
-example7.sort();
+example7.sort(function(a,b){
+  return a - b;
+});
 console.log(example7);
+
+
