@@ -82,3 +82,8 @@ console.log(carPrice);
 let medianPrice = (carPrice[4] + carPrice[5]) / 2;
 console.log(medianPrice);
 
+let carPrices = [4000, 3000, 8000, 5000, 4000, 3000, 7000, 12000, 100000, 1000,1000];
+carPrice.sort();
+console.log(carPrice);
+let middle = (carPrice.length - 1) / 2;
+console.log(carPrice[middle]);
