@@ -25,3 +25,9 @@ for( let i = 0; i < example1.length; i ++){
 }
 
 let example3 = [4,1,7,10,11,10,33];
+if(example3.includes(10)){
+console.log("yes");
+}
+else {
+  console.log("no");
+}
