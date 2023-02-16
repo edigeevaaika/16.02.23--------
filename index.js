@@ -10,3 +10,7 @@ console.log(example1[7]);
 
 
 console.log(example2[1][1]);
+
+let test = example2[2];
+console.log(test[1]);
+
