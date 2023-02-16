@@ -23,3 +23,5 @@ for( let i = 0; i < example1.length; i ++){
   console.log (example2[i][j]); 
 }
 }
+
+let example3 = [4,1,7,10,11,10,33];
